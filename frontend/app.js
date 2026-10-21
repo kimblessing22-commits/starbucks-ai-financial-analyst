@@ -3,7 +3,22 @@ const base=(window.API_BASE_URL||'http://localhost:8000').replace(/\/$/,'');
 const $=id=>document.getElementById(id);let records=[],summary=null,conversationId=null;
 const fmt=n=>typeof n==='number'?n.toLocaleString('en-US',{maximumFractionDigits:2}):'—';
 function notice(s){$('alert').textContent=s;}
-async function request(path,options={}){let response;try{response=await fetch(base+path,{...options,headers:{'Content-Type':'application/json',...(options.headers||{})}});}catch(e){throw Error('Cannot connect to API. The Render server may be sleeping or offline.');}let data;try{data=await response.json()}catch{throw Error('Invalid API response');}if(!response.ok)throw Error(typeof data.detail==='string'?data.detail:'Request failed');return data}
+async function request(path, options = {}) {
+  const response = await fetch(base + path, {
+    ...options,
+    headers: {
+      'Content-Type': 'application/json',
+      ...(options.headers || {})
+    }
+  });
+
+  if (!response.ok) {
+    const error = await response.json().catch(() => ({}));
+    throw new Error(error.detail || `HTTP ${response.status}`);
+  }
+
+  return response.json();
+}
 function error(e){notice('Error: '+e.message)}
 function switchTab(name){document.querySelectorAll('.tab').forEach(t=>t.classList.toggle('active',t.dataset.tab===name));document.querySelectorAll('.panel').forEach(p=>p.classList.toggle('active',p.id===name));notice('');if(name==='history')loadHistory();if(name==='data')loadData();if(name==='overview')loadSummary();}
 document.querySelectorAll('.tab').forEach(t=>t.onclick=()=>switchTab(t.dataset.tab));
