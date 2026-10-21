@@ -1,0 +1,1 @@
+const fs=require('fs');const url=process.env.API_BASE_URL;if(!url)throw new Error('Set API_BASE_URL in Vercel environment variables');if(!/^https:\/\//.test(url))throw new Error('API_BASE_URL must be HTTPS');fs.writeFileSync('frontend/config.js',`window.API_BASE_URL = ${JSON.stringify(url.replace(/\/$/,''))};\n`);

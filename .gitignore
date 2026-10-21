@@ -1,0 +1,25 @@
+
+# API keys and private credentials
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*service-account*.json
+firebase-key.json
+*firebase-adminsdk*.json
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Development files
+.vercel/
+.vscode/
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db

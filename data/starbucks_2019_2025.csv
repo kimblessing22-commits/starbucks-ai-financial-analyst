@@ -1,0 +1,113 @@
+﻿date,value,memo,company,fiscal_year,fiscal_quarter,unit,source_document,source_report_page,source_pdf_page,method,calculation_note,secondary_source,sec_accession,filed,start,sec_tag
+2018-12-30,760.6,net_income,Starbucks Corporation,2019,Q1,USD millions,10-Q,,,direct_reported,Standalone fiscal quarter (not cumulative),,0000829224-19-000011,2019-01-29,2018-10-01,NetIncomeLoss
+2018-12-30,1015.7,operating_income,Starbucks Corporation,2019,Q1,USD millions,10-Q,,,direct_reported,Standalone fiscal quarter (not cumulative),,0000829224-19-000011,2019-01-29,2018-10-01,OperatingIncomeLoss
+2018-12-30,6632.7,revenue,Starbucks Corporation,2019,Q1,USD millions,10-Q,,,direct_reported,Standalone fiscal quarter (not cumulative),,0000829224-19-000011,2019-01-29,2018-10-01,Revenues
+2018-12-30,19981.3,total_assets,Starbucks Corporation,2019,Q1,USD millions,10-Q,,,direct_reported,Instant balance at fiscal quarter end,,0000829224-19-000011,2019-01-29,,Assets
+2019-03-31,663.2,net_income,Starbucks Corporation,2019,Q2,USD millions,10-Q,,,direct_reported,Standalone fiscal quarter (not cumulative),,0000829224-19-000024,2019-04-30,2018-12-31,NetIncomeLoss
+2019-03-31,857.7,operating_income,Starbucks Corporation,2019,Q2,USD millions,10-Q,,,direct_reported,Standalone fiscal quarter (not cumulative),,0000829224-19-000024,2019-04-30,2018-12-31,OperatingIncomeLoss
+2019-03-31,6305.9,revenue,Starbucks Corporation,2019,Q2,USD millions,10-Q,,,direct_reported,Standalone fiscal quarter (not cumulative),,0000829224-19-000024,2019-04-30,2018-12-31,Revenues
+2019-03-31,17641.9,total_assets,Starbucks Corporation,2019,Q2,USD millions,10-Q,,,direct_reported,Instant balance at fiscal quarter end,,0000829224-19-000024,2019-04-30,,Assets
+2019-06-30,1372.8,net_income,Starbucks Corporation,2019,Q3,USD millions,10-Q,,,direct_reported,Standalone fiscal quarter (not cumulative),,0000829224-19-000036,2019-07-30,2019-04-01,NetIncomeLoss
+2019-06-30,1121.3,operating_income,Starbucks Corporation,2019,Q3,USD millions,10-Q,,,direct_reported,Standalone fiscal quarter (not cumulative),,0000829224-19-000036,2019-07-30,2019-04-01,OperatingIncomeLoss
+2019-06-30,6823,revenue,Starbucks Corporation,2019,Q3,USD millions,10-Q,,,direct_reported,Standalone fiscal quarter (not cumulative),,0000829224-19-000036,2019-07-30,2019-04-01,Revenues
+2019-06-30,20894.4,total_assets,Starbucks Corporation,2019,Q3,USD millions,10-Q,,,direct_reported,Instant balance at fiscal quarter end,,0000829224-19-000036,2019-07-30,,Assets
+2019-09-29,802.8,net_income,Starbucks Corporation,2019,Q4,USD millions,10-K,,,calculated_fy_minus_9m,FY 3599200000 USD - 9M 2796400000 USD; 9M accession 0000829224-19-000036,,0000829224-19-000051,2019-11-15,2018-10-01,NetIncomeLoss
+2019-09-29,1083.3,operating_income,Starbucks Corporation,2019,Q4,USD millions,10-K,,,calculated_fy_minus_9m,FY 4077900000 USD - 9M 2994600000 USD; 9M accession 0000829224-19-000036,,0000829224-19-000051,2019-11-15,2018-10-01,OperatingIncomeLoss
+2019-09-29,6747,revenue,Starbucks Corporation,2019,Q4,USD millions,10-K,,,calculated_fy_minus_9m,FY 26508600000 USD - 9M 19761600000 USD; 9M accession 0000829224-19-000036,,0000829224-19-000051,2019-11-15,2018-10-01,Revenues
+2019-09-29,19219.6,total_assets,Starbucks Corporation,2019,Q4,USD millions,10-K,,,direct_reported,Instant balance at fiscal quarter end,,0000829224-19-000051,2019-11-15,,Assets
+2019-12-29,885.7,net_income,Starbucks Corporation,2020,Q1,USD millions,10-Q,,,direct_reported,Standalone fiscal quarter (not cumulative),,0000829224-20-000012,2020-01-28,2019-09-30,NetIncomeLoss
+2019-12-29,1219.8,operating_income,Starbucks Corporation,2020,Q1,USD millions,10-Q,,,direct_reported,Standalone fiscal quarter (not cumulative),,0000829224-20-000012,2020-01-28,2019-09-30,OperatingIncomeLoss
+2019-12-29,7097.1,revenue,Starbucks Corporation,2020,Q1,USD millions,10-Q,,,direct_reported,Standalone fiscal quarter (not cumulative),,0000829224-20-000012,2020-01-28,2019-09-30,Revenues
+2019-12-29,27731.3,total_assets,Starbucks Corporation,2020,Q1,USD millions,10-Q,,,direct_reported,Instant balance at fiscal quarter end,,0000829224-20-000012,2020-01-28,,Assets
+2020-03-29,328.4,net_income,Starbucks Corporation,2020,Q2,USD millions,10-Q,,,direct_reported,Standalone fiscal quarter (not cumulative),,0000829224-20-000045,2020-04-28,2019-12-30,NetIncomeLoss
+2020-03-29,487.4,operating_income,Starbucks Corporation,2020,Q2,USD millions,10-Q,,,direct_reported,Standalone fiscal quarter (not cumulative),,0000829224-20-000045,2020-04-28,2019-12-30,OperatingIncomeLoss
+2020-03-29,5995.7,revenue,Starbucks Corporation,2020,Q2,USD millions,10-Q,,,direct_reported,Standalone fiscal quarter (not cumulative),,0000829224-20-000045,2020-04-28,2019-12-30,Revenues
+2020-03-29,27478.9,total_assets,Starbucks Corporation,2020,Q2,USD millions,10-Q,,,direct_reported,Instant balance at fiscal quarter end,,0000829224-20-000045,2020-04-28,,Assets
+2020-06-28,-678.4,net_income,Starbucks Corporation,2020,Q3,USD millions,10-Q,,,direct_reported,Standalone fiscal quarter (not cumulative),,0000829224-20-000066,2020-07-28,2020-03-30,NetIncomeLoss
+2020-06-28,-703.9,operating_income,Starbucks Corporation,2020,Q3,USD millions,10-Q,,,direct_reported,Standalone fiscal quarter (not cumulative),,0000829224-20-000066,2020-07-28,2020-03-30,OperatingIncomeLoss
+2020-06-28,4222.1,revenue,Starbucks Corporation,2020,Q3,USD millions,10-Q,,,direct_reported,Standalone fiscal quarter (not cumulative),,0000829224-20-000066,2020-07-28,2020-03-30,Revenues
+2020-06-28,29140.6,total_assets,Starbucks Corporation,2020,Q3,USD millions,10-Q,,,direct_reported,Instant balance at fiscal quarter end,,0000829224-20-000066,2020-07-28,,Assets
+2020-09-27,392.6,net_income,Starbucks Corporation,2020,Q4,USD millions,10-K,,,calculated_fy_minus_9m,FY 928300000 USD - 9M 535700000 USD; 9M accession 0000829224-20-000066,,0000829224-20-000078,2020-11-12,2019-09-30,NetIncomeLoss
+2020-09-27,558.3,operating_income,Starbucks Corporation,2020,Q4,USD millions,10-K,,,calculated_fy_minus_9m,FY 1561700000 USD - 9M 1003400000 USD; 9M accession 0000829224-20-000066,,0000829224-20-000078,2020-11-12,2019-09-30,OperatingIncomeLoss
+2020-09-27,6203.1,revenue,Starbucks Corporation,2020,Q4,USD millions,10-K,,,calculated_fy_minus_9m,FY 23518000000 USD - 9M 17314900000 USD; 9M accession 0000829224-20-000066,,0000829224-20-000078,2020-11-12,2019-09-30,Revenues
+2020-09-27,29374.5,total_assets,Starbucks Corporation,2020,Q4,USD millions,10-K,,,direct_reported,Instant balance at fiscal quarter end,,0000829224-20-000078,2020-11-12,,Assets
+2020-12-27,622.2,net_income,Starbucks Corporation,2021,Q1,USD millions,10-Q,,,direct_reported,Standalone fiscal quarter (not cumulative),,0000829224-21-000029,2021-01-26,2020-09-28,NetIncomeLoss
+2020-12-27,913.5,operating_income,Starbucks Corporation,2021,Q1,USD millions,10-Q,,,direct_reported,Standalone fiscal quarter (not cumulative),,0000829224-21-000029,2021-01-26,2020-09-28,OperatingIncomeLoss
+2020-12-27,6749.4,revenue,Starbucks Corporation,2021,Q1,USD millions,10-Q,,,direct_reported,Standalone fiscal quarter (not cumulative),,0000829224-21-000029,2021-01-26,2020-09-28,Revenues
+2020-12-27,29968.4,total_assets,Starbucks Corporation,2021,Q1,USD millions,10-Q,,,direct_reported,Instant balance at fiscal quarter end,,0000829224-21-000029,2021-01-26,,Assets
+2021-03-28,659.4,net_income,Starbucks Corporation,2021,Q2,USD millions,10-Q,,,direct_reported,Standalone fiscal quarter (not cumulative),,0000829224-21-000053,2021-04-27,2020-12-28,NetIncomeLoss
+2021-03-28,987.6,operating_income,Starbucks Corporation,2021,Q2,USD millions,10-Q,,,direct_reported,Standalone fiscal quarter (not cumulative),,0000829224-21-000053,2021-04-27,2020-12-28,OperatingIncomeLoss
+2021-03-28,6668,revenue,Starbucks Corporation,2021,Q2,USD millions,10-Q,,,direct_reported,Standalone fiscal quarter (not cumulative),,0000829224-21-000053,2021-04-27,2020-12-28,Revenues
+2021-03-28,28371.7,total_assets,Starbucks Corporation,2021,Q2,USD millions,10-Q,,,direct_reported,Instant balance at fiscal quarter end,,0000829224-21-000053,2021-04-27,,Assets
+2021-06-27,1153.4,net_income,Starbucks Corporation,2021,Q3,USD millions,10-Q,,,direct_reported,Standalone fiscal quarter (not cumulative),,0000829224-21-000075,2021-07-27,2021-03-29,NetIncomeLoss
+2021-06-27,1488.7,operating_income,Starbucks Corporation,2021,Q3,USD millions,10-Q,,,direct_reported,Standalone fiscal quarter (not cumulative),,0000829224-21-000075,2021-07-27,2021-03-29,OperatingIncomeLoss
+2021-06-27,7496.5,revenue,Starbucks Corporation,2021,Q3,USD millions,10-Q,,,direct_reported,Standalone fiscal quarter (not cumulative),,0000829224-21-000075,2021-07-27,2021-03-29,Revenues
+2021-06-27,29476.8,total_assets,Starbucks Corporation,2021,Q3,USD millions,10-Q,,,direct_reported,Instant balance at fiscal quarter end,,0000829224-21-000075,2021-07-27,,Assets
+2021-10-03,1764.4,net_income,Starbucks Corporation,2021,Q4,USD millions,10-K,,,calculated_fy_minus_9m,FY 4199300000 USD - 9M 2434900000 USD; 9M accession 0000829224-21-000075,,0000829224-21-000086,2021-11-19,2020-09-28,NetIncomeLoss
+2021-10-03,1482.2,operating_income,Starbucks Corporation,2021,Q4,USD millions,10-K,,,calculated_fy_minus_9m,FY 4872100000 USD - 9M 3389900000 USD; 9M accession 0000829224-21-000075,,0000829224-21-000086,2021-11-19,2020-09-28,OperatingIncomeLoss
+2021-10-03,8146.7,revenue,Starbucks Corporation,2021,Q4,USD millions,10-K,,,calculated_fy_minus_9m,FY 29060600000 USD - 9M 20913900000 USD; 9M accession 0000829224-21-000075,,0000829224-21-000086,2021-11-19,2020-09-28,Revenues
+2021-10-03,31392.6,total_assets,Starbucks Corporation,2021,Q4,USD millions,10-K,,,direct_reported,Instant balance at fiscal quarter end,,0000829224-21-000086,2021-11-19,,Assets
+2022-01-02,815.9,net_income,Starbucks Corporation,2022,Q1,USD millions,10-Q,,,direct_reported,Standalone fiscal quarter (not cumulative),,0000829224-22-000012,2022-02-01,2021-10-04,NetIncomeLoss
+2022-01-02,1177.8,operating_income,Starbucks Corporation,2022,Q1,USD millions,10-Q,,,direct_reported,Standalone fiscal quarter (not cumulative),,0000829224-22-000012,2022-02-01,2021-10-04,OperatingIncomeLoss
+2022-01-02,8050.4,revenue,Starbucks Corporation,2022,Q1,USD millions,10-Q,,,direct_reported,Standalone fiscal quarter (not cumulative),,0000829224-22-000012,2022-02-01,2021-10-04,Revenues
+2022-01-02,28833.9,total_assets,Starbucks Corporation,2022,Q1,USD millions,10-Q,,,direct_reported,Instant balance at fiscal quarter end,,0000829224-22-000012,2022-02-01,,Assets
+2022-04-03,674.5,net_income,Starbucks Corporation,2022,Q2,USD millions,10-Q,,,direct_reported,Standalone fiscal quarter (not cumulative),,0000829224-22-000030,2022-05-03,2022-01-03,NetIncomeLoss
+2022-04-03,948.9,operating_income,Starbucks Corporation,2022,Q2,USD millions,10-Q,,,direct_reported,Standalone fiscal quarter (not cumulative),,0000829224-22-000030,2022-05-03,2022-01-03,OperatingIncomeLoss
+2022-04-03,7635.6,revenue,Starbucks Corporation,2022,Q2,USD millions,10-Q,,,direct_reported,Standalone fiscal quarter (not cumulative),,0000829224-22-000030,2022-05-03,2022-01-03,Revenues
+2022-04-03,29021.5,total_assets,Starbucks Corporation,2022,Q2,USD millions,10-Q,,,direct_reported,Instant balance at fiscal quarter end,,0000829224-22-000030,2022-05-03,,Assets
+2022-07-03,912.9,net_income,Starbucks Corporation,2022,Q3,USD millions,10-Q,,,direct_reported,Standalone fiscal quarter (not cumulative),,0000829224-22-000039,2022-08-02,2022-04-04,NetIncomeLoss
+2022-07-03,1295.5,operating_income,Starbucks Corporation,2022,Q3,USD millions,10-Q,,,direct_reported,Standalone fiscal quarter (not cumulative),,0000829224-22-000039,2022-08-02,2022-04-04,OperatingIncomeLoss
+2022-07-03,8150.1,revenue,Starbucks Corporation,2022,Q3,USD millions,10-Q,,,direct_reported,Standalone fiscal quarter (not cumulative),,0000829224-22-000039,2022-08-02,2022-04-04,Revenues
+2022-07-03,28156.2,total_assets,Starbucks Corporation,2022,Q3,USD millions,10-Q,,,direct_reported,Instant balance at fiscal quarter end,,0000829224-22-000039,2022-08-02,,Assets
+2022-10-02,878.3,net_income,Starbucks Corporation,2022,Q4,USD millions,10-K,,,calculated_fy_minus_9m,FY 3281600000 USD - 9M 2403300000 USD; 9M accession 0000829224-22-000039,,0000829224-22-000058,2022-11-18,2021-10-04,NetIncomeLoss
+2022-10-02,1195.5,operating_income,Starbucks Corporation,2022,Q4,USD millions,10-K,,,calculated_fy_minus_9m,FY 4617800000 USD - 9M 3422300000 USD; 9M accession 0000829224-22-000039,,0000829224-22-000058,2022-11-18,2021-10-04,OperatingIncomeLoss
+2022-10-02,8414.2,revenue,Starbucks Corporation,2022,Q4,USD millions,10-K,,,calculated_fy_minus_9m,FY 32250300000 USD - 9M 23836100000 USD; 9M accession 0000829224-22-000039,,0000829224-22-000058,2022-11-18,2021-10-04,Revenues
+2022-10-02,27978.4,total_assets,Starbucks Corporation,2022,Q4,USD millions,10-K,,,direct_reported,Instant balance at fiscal quarter end,,0000829224-22-000058,2022-11-18,,Assets
+2023-01-01,855.2,net_income,Starbucks Corporation,2023,Q1,USD millions,10-Q,,,direct_reported,Standalone fiscal quarter (not cumulative),,0000829224-23-000017,2023-02-02,2022-10-03,NetIncomeLoss
+2023-01-01,1253.1,operating_income,Starbucks Corporation,2023,Q1,USD millions,10-Q,,,direct_reported,Standalone fiscal quarter (not cumulative),,0000829224-23-000017,2023-02-02,2022-10-03,OperatingIncomeLoss
+2023-01-01,8713.9,revenue,Starbucks Corporation,2023,Q1,USD millions,10-Q,,,direct_reported,Standalone fiscal quarter (not cumulative),,0000829224-23-000017,2023-02-02,2022-10-03,Revenues
+2023-01-01,28256.1,total_assets,Starbucks Corporation,2023,Q1,USD millions,10-Q,,,direct_reported,Instant balance at fiscal quarter end,,0000829224-23-000017,2023-02-02,,Assets
+2023-04-02,908.3,net_income,Starbucks Corporation,2023,Q2,USD millions,10-Q,,,direct_reported,Standalone fiscal quarter (not cumulative),,0000829224-23-000037,2023-05-02,2023-01-02,NetIncomeLoss
+2023-04-02,1327.5,operating_income,Starbucks Corporation,2023,Q2,USD millions,10-Q,,,direct_reported,Standalone fiscal quarter (not cumulative),,0000829224-23-000037,2023-05-02,2023-01-02,OperatingIncomeLoss
+2023-04-02,8719.8,revenue,Starbucks Corporation,2023,Q2,USD millions,10-Q,,,direct_reported,Standalone fiscal quarter (not cumulative),,0000829224-23-000037,2023-05-02,2023-01-02,Revenues
+2023-04-02,28609,total_assets,Starbucks Corporation,2023,Q2,USD millions,10-Q,,,direct_reported,Instant balance at fiscal quarter end,,0000829224-23-000037,2023-05-02,,Assets
+2023-07-02,1141.7,net_income,Starbucks Corporation,2023,Q3,USD millions,10-Q,,,direct_reported,Standalone fiscal quarter (not cumulative),,0000829224-23-000044,2023-08-01,2023-04-03,NetIncomeLoss
+2023-07-02,1583.9,operating_income,Starbucks Corporation,2023,Q3,USD millions,10-Q,,,direct_reported,Standalone fiscal quarter (not cumulative),,0000829224-23-000044,2023-08-01,2023-04-03,OperatingIncomeLoss
+2023-07-02,9168.3,revenue,Starbucks Corporation,2023,Q3,USD millions,10-Q,,,direct_reported,Standalone fiscal quarter (not cumulative),,0000829224-23-000044,2023-08-01,2023-04-03,Revenues
+2023-07-02,28733,total_assets,Starbucks Corporation,2023,Q3,USD millions,10-Q,,,direct_reported,Instant balance at fiscal quarter end,,0000829224-23-000044,2023-08-01,,Assets
+2023-10-01,1219.3,net_income,Starbucks Corporation,2023,Q4,USD millions,10-K,,,calculated_fy_minus_9m,FY 4124500000 USD - 9M 2905200000 USD; 9M accession 0000829224-23-000044,,0000829224-23-000058,2023-11-17,2022-10-03,NetIncomeLoss
+2023-10-01,1706.2,operating_income,Starbucks Corporation,2023,Q4,USD millions,10-K,,,calculated_fy_minus_9m,FY 5870800000 USD - 9M 4164600000 USD; 9M accession 0000829224-23-000044,,0000829224-23-000058,2023-11-17,2022-10-03,OperatingIncomeLoss
+2023-10-01,9373.6,revenue,Starbucks Corporation,2023,Q4,USD millions,10-K,,,calculated_fy_minus_9m,FY 35975600000 USD - 9M 26602000000 USD; 9M accession 0000829224-23-000044,,0000829224-23-000058,2023-11-17,2022-10-03,Revenues
+2023-10-01,29445.5,total_assets,Starbucks Corporation,2023,Q4,USD millions,10-K,,,direct_reported,Instant balance at fiscal quarter end,,0000829224-23-000058,2023-11-17,,Assets
+2023-12-31,1024.4,net_income,Starbucks Corporation,2024,Q1,USD millions,10-Q,,,direct_reported,Standalone fiscal quarter (not cumulative),,0000829224-24-000013,2024-01-30,2023-10-02,NetIncomeLoss
+2023-12-31,1485.4,operating_income,Starbucks Corporation,2024,Q1,USD millions,10-Q,,,direct_reported,Standalone fiscal quarter (not cumulative),,0000829224-24-000013,2024-01-30,2023-10-02,OperatingIncomeLoss
+2023-12-31,9425.3,revenue,Starbucks Corporation,2024,Q1,USD millions,10-Q,,,direct_reported,Standalone fiscal quarter (not cumulative),,0000829224-24-000013,2024-01-30,2023-10-02,Revenues
+2023-12-31,29179.7,total_assets,Starbucks Corporation,2024,Q1,USD millions,10-Q,,,direct_reported,Instant balance at fiscal quarter end,,0000829224-24-000013,2024-01-30,,Assets
+2024-03-31,772.4,net_income,Starbucks Corporation,2024,Q2,USD millions,10-Q,,,direct_reported,Standalone fiscal quarter (not cumulative),,0000829224-24-000024,2024-04-30,2024-01-01,NetIncomeLoss
+2024-03-31,1098.9,operating_income,Starbucks Corporation,2024,Q2,USD millions,10-Q,,,direct_reported,Standalone fiscal quarter (not cumulative),,0000829224-24-000024,2024-04-30,2024-01-01,OperatingIncomeLoss
+2024-03-31,8563,revenue,Starbucks Corporation,2024,Q2,USD millions,10-Q,,,direct_reported,Standalone fiscal quarter (not cumulative),,0000829224-24-000024,2024-04-30,2024-01-01,Revenues
+2024-03-31,29363.2,total_assets,Starbucks Corporation,2024,Q2,USD millions,10-Q,,,direct_reported,Instant balance at fiscal quarter end,,0000829224-24-000024,2024-04-30,,Assets
+2024-06-30,1054.8,net_income,Starbucks Corporation,2024,Q3,USD millions,10-Q,,,direct_reported,Standalone fiscal quarter (not cumulative),,0000829224-24-000042,2024-07-30,2024-04-01,NetIncomeLoss
+2024-06-30,1517.5,operating_income,Starbucks Corporation,2024,Q3,USD millions,10-Q,,,direct_reported,Standalone fiscal quarter (not cumulative),,0000829224-24-000042,2024-07-30,2024-04-01,OperatingIncomeLoss
+2024-06-30,9113.9,revenue,Starbucks Corporation,2024,Q3,USD millions,10-Q,,,direct_reported,Standalone fiscal quarter (not cumulative),,0000829224-24-000042,2024-07-30,2024-04-01,Revenues
+2024-06-30,30111.8,total_assets,Starbucks Corporation,2024,Q3,USD millions,10-Q,,,direct_reported,Instant balance at fiscal quarter end,,0000829224-24-000042,2024-07-30,,Assets
+2024-09-29,909.2,net_income,Starbucks Corporation,2024,Q4,USD millions,10-K,,,calculated_fy_minus_9m,FY 3760900000 USD - 9M 2851700000 USD; 9M accession 0000829224-24-000042,,0000829224-24-000057,2024-11-20,2023-10-02,NetIncomeLoss
+2024-09-29,1306.9,operating_income,Starbucks Corporation,2024,Q4,USD millions,10-K,,,calculated_fy_minus_9m,FY 5408800000 USD - 9M 4101900000 USD; 9M accession 0000829224-24-000042,,0000829224-24-000057,2024-11-20,2023-10-02,OperatingIncomeLoss
+2024-09-29,9073.9,revenue,Starbucks Corporation,2024,Q4,USD millions,10-K,,,calculated_fy_minus_9m,FY 36176200000 USD - 9M 27102300000 USD; 9M accession 0000829224-24-000042,,0000829224-24-000057,2024-11-20,2023-10-02,Revenues
+2024-09-29,31339.3,total_assets,Starbucks Corporation,2024,Q4,USD millions,10-K,,,direct_reported,Instant balance at fiscal quarter end,,0000829224-24-000057,2024-11-20,,Assets
+2024-12-29,780.8,net_income,Starbucks Corporation,2025,Q1,USD millions,10-Q,,,direct_reported,Standalone fiscal quarter (not cumulative),,0000829224-25-000014,2025-01-28,2024-09-30,NetIncomeLoss
+2024-12-29,1121.7,operating_income,Starbucks Corporation,2025,Q1,USD millions,10-Q,,,direct_reported,Standalone fiscal quarter (not cumulative),,0000829224-25-000014,2025-01-28,2024-09-30,OperatingIncomeLoss
+2024-12-29,9397.8,revenue,Starbucks Corporation,2025,Q1,USD millions,10-Q,,,direct_reported,Standalone fiscal quarter (not cumulative),,0000829224-25-000014,2025-01-28,2024-09-30,Revenues
+2024-12-29,31893.1,total_assets,Starbucks Corporation,2025,Q1,USD millions,10-Q,,,direct_reported,Instant balance at fiscal quarter end,,0000829224-25-000014,2025-01-28,,Assets
+2025-03-30,384.2,net_income,Starbucks Corporation,2025,Q2,USD millions,10-Q,,,direct_reported,Standalone fiscal quarter (not cumulative),,0000829224-25-000034,2025-04-29,2024-12-30,NetIncomeLoss
+2025-03-30,601,operating_income,Starbucks Corporation,2025,Q2,USD millions,10-Q,,,direct_reported,Standalone fiscal quarter (not cumulative),,0000829224-25-000034,2025-04-29,2024-12-30,OperatingIncomeLoss
+2025-03-30,8761.6,revenue,Starbucks Corporation,2025,Q2,USD millions,10-Q,,,direct_reported,Standalone fiscal quarter (not cumulative),,0000829224-25-000034,2025-04-29,2024-12-30,Revenues
+2025-03-30,31633.1,total_assets,Starbucks Corporation,2025,Q2,USD millions,10-Q,,,direct_reported,Instant balance at fiscal quarter end,,0000829224-25-000034,2025-04-29,,Assets
+2025-06-29,558.3,net_income,Starbucks Corporation,2025,Q3,USD millions,10-Q,,,direct_reported,Standalone fiscal quarter (not cumulative),,0000829224-25-000058,2025-07-29,2025-03-31,NetIncomeLoss
+2025-06-29,935.6,operating_income,Starbucks Corporation,2025,Q3,USD millions,10-Q,,,direct_reported,Standalone fiscal quarter (not cumulative),,0000829224-25-000058,2025-07-29,2025-03-31,OperatingIncomeLoss
+2025-06-29,9456,revenue,Starbucks Corporation,2025,Q3,USD millions,10-Q,,,direct_reported,Standalone fiscal quarter (not cumulative),,0000829224-25-000058,2025-07-29,2025-03-31,Revenues
+2025-06-29,33649.2,total_assets,Starbucks Corporation,2025,Q3,USD millions,10-Q,,,direct_reported,Instant balance at fiscal quarter end,,0000829224-25-000058,2025-07-29,,Assets
+2025-09-28,133.2,net_income,Starbucks Corporation,2025,Q4,USD millions,10-K,,,calculated_fy_minus_9m,FY 1856400000 USD - 9M 1723200000 USD; 9M accession 0000829224-25-000058,,0000829224-25-000114,2025-11-14,2024-09-30,NetIncomeLoss
+2025-09-28,278.2,operating_income,Starbucks Corporation,2025,Q4,USD millions,10-K,,,calculated_fy_minus_9m,FY 2936600000 USD - 9M 2658400000 USD; 9M accession 0000829224-25-000058,,0000829224-25-000114,2025-11-14,2024-09-30,OperatingIncomeLoss
+2025-09-28,9569,revenue,Starbucks Corporation,2025,Q4,USD millions,10-K,,,calculated_fy_minus_9m,FY 37184400000 USD - 9M 27615400000 USD; 9M accession 0000829224-25-000058,,0000829224-25-000114,2025-11-14,2024-09-30,Revenues
+2025-09-28,32019.7,total_assets,Starbucks Corporation,2025,Q4,USD millions,10-K,,,direct_reported,Instant balance at fiscal quarter end,,0000829224-25-000114,2025-11-14,,Assets
